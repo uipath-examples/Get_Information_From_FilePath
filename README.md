@@ -1,0 +1,2 @@
+# Get_Information_From_FilePath
+ファイルパスから各種の情報取得
